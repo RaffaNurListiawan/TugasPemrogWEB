@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg border">
     <div class="container d-flex">
       <a class="navbar-brand" href="#">
-        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="50" height="37" />
+        <img src="../assets/logo.png" alt="Bootstrap" width="150" height="60" />
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
